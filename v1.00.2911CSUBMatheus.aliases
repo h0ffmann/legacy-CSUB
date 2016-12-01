@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "0.0.0.0"
+
+[NI-cRIO-9068-019d230f]
+NI-cRIO-9068-019d230f = "0.0.0.0"
+
+[RT CompactRIO Target]
+RT CompactRIO Target = "0"
+

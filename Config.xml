@@ -1,0 +1,268 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>16.0</Version>
+<Cluster>
+<Name>Acquisition and Logging Configuration</Name>
+<NumElts>11</NumElts>
+<U8>
+<Name>Data Rate</Name>
+<Val>1</Val>
+</U8>
+<I32>
+<Name>Samples per Read</Name>
+<Val>12800</Val>
+</I32>
+<I32>
+<Name>Number of Reads to Save</Name>
+<Val>20</Val>
+</I32>
+<String>
+<Name>Data File Name</Name>
+<Val>cRIO_Data_4x239</Val>
+</String>
+<Array>
+<Name>TDMS Properties</Name>
+<Dimsize>8</Dimsize>
+<Cluster>
+<Name>TDMS Properties</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>LIOc/CSUB Soft</Val>
+</String>
+<String>
+<Name>Value</Name>
+<Val>Teste 2911</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>TDMS Properties</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Author</Val>
+</String>
+<String>
+<Name>Value</Name>
+<Val>[DeveloperName]</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>TDMS Properties</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Operator</Val>
+</String>
+<String>
+<Name>Value</Name>
+<Val>[OperatorName]</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>TDMS Properties</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>TestSystem</Val>
+</String>
+<String>
+<Name>Value</Name>
+<Val>[SystemName]</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>TDMS Properties</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Site</Val>
+</String>
+<String>
+<Name>Value</Name>
+<Val>[Location]</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>TDMS Properties</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Line</Val>
+</String>
+<String>
+<Name>Value</Name>
+<Val>[Line]</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>TDMS Properties</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Machine</Val>
+</String>
+<String>
+<Name>Value</Name>
+<Val>[MachineName]</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>TDMS Properties</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Description</Val>
+</String>
+<String>
+<Name>Value</Name>
+<Val>[Description]</Val>
+</String>
+</Cluster>
+</Array>
+<I32>
+<Name>Number of Channels</Name>
+<Val>16</Val>
+</I32>
+<Array>
+<Name>Channel Scale Array</Name>
+<Dimsize>4</Dimsize>
+<FXP>
+<Name>Ch0 Scale</Name>
+<WordLength>24</WordLength>
+<IntegerLength>12</IntegerLength>
+<Sign>Unsigned</Sign>
+<Val>0x0000000000001000</Val>
+<Minimum>0x0000000000000000</Minimum>
+<Maximum>0x0000000000ffffff</Maximum>
+<Delta>
+<WordLength>24</WordLength>
+<IntegerLength>12</IntegerLength>
+<Val>0x0000000000ffffff</Val>
+</Delta>
+</FXP>
+<FXP>
+<Name>Ch0 Scale</Name>
+<WordLength>24</WordLength>
+<IntegerLength>12</IntegerLength>
+<Sign>Unsigned</Sign>
+<Val>0x0000000000001000</Val>
+<Minimum>0x0000000000000000</Minimum>
+<Maximum>0x0000000000ffffff</Maximum>
+<Delta>
+<WordLength>24</WordLength>
+<IntegerLength>12</IntegerLength>
+<Val>0x0000000000ffffff</Val>
+</Delta>
+</FXP>
+<FXP>
+<Name>Ch0 Scale</Name>
+<WordLength>24</WordLength>
+<IntegerLength>12</IntegerLength>
+<Sign>Unsigned</Sign>
+<Val>0x0000000000001000</Val>
+<Minimum>0x0000000000000000</Minimum>
+<Maximum>0x0000000000ffffff</Maximum>
+<Delta>
+<WordLength>24</WordLength>
+<IntegerLength>12</IntegerLength>
+<Val>0x0000000000ffffff</Val>
+</Delta>
+</FXP>
+<FXP>
+<Name>Ch0 Scale</Name>
+<WordLength>24</WordLength>
+<IntegerLength>12</IntegerLength>
+<Sign>Unsigned</Sign>
+<Val>0x0000000000001000</Val>
+<Minimum>0x0000000000000000</Minimum>
+<Maximum>0x0000000000ffffff</Maximum>
+<Delta>
+<WordLength>24</WordLength>
+<IntegerLength>12</IntegerLength>
+<Val>0x0000000000ffffff</Val>
+</Delta>
+</FXP>
+</Array>
+<Array>
+<Name>Channel Names</Name>
+<Dimsize>16</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Ch0</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch1</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch2</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch3</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch4</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch5</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch6</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch7</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch8</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch9</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch10</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch11</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch12</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch13</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch14</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Ch15</Val>
+</String>
+</Array>
+<DBL>
+<Name>Trigger - RMS Value</Name>
+<Val>1.80000000000000</Val>
+</DBL>
+<I32>
+<Name>Trigger - Channel</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Trigger - Time (Minute)</Name>
+<Val>30</Val>
+</I32>
+</Cluster>
+</LVData>
