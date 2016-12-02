@@ -1023,7 +1023,11 @@ AddOutputFilter chunkFilter
 					<Property Name="cRIOModule.TEDSSupport" Type="Str">false</Property>
 					<Property Name="FPGA.PersistentID" Type="Str">{86C5AF53-7D2C-4AAE-B885-7F9888B14F4F}</Property>
 				</Item>
-				<Item Name="Dependencies" Type="Dependencies"/>
+				<Item Name="Dependencies" Type="Dependencies">
+					<Item Name="vi.lib" Type="Folder">
+						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
+					</Item>
+				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="FPGA Main" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
 						<Property Name="AllowEnableRemoval" Type="Bool">false</Property>
