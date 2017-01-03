@@ -422,15 +422,15 @@
 </Array>
 <DBL>
 <Name>Trigger - RMS Value</Name>
-<Val>1.80000000000000</Val>
+<Val>10.00000000000000</Val>
 </DBL>
 <I32>
 <Name>Trigger - Channel</Name>
-<Val>0</Val>
+<Val>1</Val>
 </I32>
 <I32>
 <Name>Trigger - Time (Minute)</Name>
-<Val>30</Val>
+<Val>1</Val>
 </I32>
 </Cluster>
 </LVData>
