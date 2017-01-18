@@ -18,7 +18,7 @@
 </I32>
 <String>
 <Name>Data File Name</Name>
-<Val>cRIO_Data_4x239JAN</Val>
+<Val>cRIO_Data_4x239</Val>
 </String>
 <Array>
 <Name>TDMS Properties</Name>
@@ -422,7 +422,7 @@
 </Array>
 <DBL>
 <Name>Trigger - RMS Value</Name>
-<Val>0.10000000000000</Val>
+<Val>1.80000000000000</Val>
 </DBL>
 <I32>
 <Name>Trigger - Channel</Name>
