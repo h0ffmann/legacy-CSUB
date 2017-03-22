@@ -53,7 +53,6 @@
 		</Item>
 		<Item Name="UI Main.vi" Type="VI" URL="../UI Main.vi"/>
 		<Item Name="Utility - Configuration File Generator.vi" Type="VI" URL="../Utility - Configuration File Generator.vi"/>
-		<Item Name="TDMS Simple transference.vi" Type="VI" URL="../TDMS Simple transference.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>

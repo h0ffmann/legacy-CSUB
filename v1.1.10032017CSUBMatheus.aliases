@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "127.0.0.1"
+My Computer = "0.0.0.0"
 
 [NI-cRIO-9068-019d230f]
 NI-cRIO-9068-019d230f = "0.0.0.0"
